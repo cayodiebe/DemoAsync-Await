@@ -1,0 +1,11 @@
+C:\Users\Diebe\source\repos\DemoLive.ProgramacaoAsync\DemoLive.ProgramacaoAsync\obj\Debug\netcoreapp3.1\DemoLive.ProgramacaoAsync.csprojAssemblyReference.cache
+C:\Users\Diebe\source\repos\DemoLive.ProgramacaoAsync\DemoLive.ProgramacaoAsync\obj\Debug\netcoreapp3.1\DemoLive.ProgramacaoAsync.AssemblyInfoInputs.cache
+C:\Users\Diebe\source\repos\DemoLive.ProgramacaoAsync\DemoLive.ProgramacaoAsync\obj\Debug\netcoreapp3.1\DemoLive.ProgramacaoAsync.AssemblyInfo.cs
+C:\Users\Diebe\source\repos\DemoLive.ProgramacaoAsync\DemoLive.ProgramacaoAsync\bin\Debug\netcoreapp3.1\DemoLive.ProgramacaoAsync.exe
+C:\Users\Diebe\source\repos\DemoLive.ProgramacaoAsync\DemoLive.ProgramacaoAsync\bin\Debug\netcoreapp3.1\DemoLive.ProgramacaoAsync.deps.json
+C:\Users\Diebe\source\repos\DemoLive.ProgramacaoAsync\DemoLive.ProgramacaoAsync\bin\Debug\netcoreapp3.1\DemoLive.ProgramacaoAsync.runtimeconfig.json
+C:\Users\Diebe\source\repos\DemoLive.ProgramacaoAsync\DemoLive.ProgramacaoAsync\bin\Debug\netcoreapp3.1\DemoLive.ProgramacaoAsync.runtimeconfig.dev.json
+C:\Users\Diebe\source\repos\DemoLive.ProgramacaoAsync\DemoLive.ProgramacaoAsync\bin\Debug\netcoreapp3.1\DemoLive.ProgramacaoAsync.dll
+C:\Users\Diebe\source\repos\DemoLive.ProgramacaoAsync\DemoLive.ProgramacaoAsync\bin\Debug\netcoreapp3.1\DemoLive.ProgramacaoAsync.pdb
+C:\Users\Diebe\source\repos\DemoLive.ProgramacaoAsync\DemoLive.ProgramacaoAsync\obj\Debug\netcoreapp3.1\DemoLive.ProgramacaoAsync.dll
+C:\Users\Diebe\source\repos\DemoLive.ProgramacaoAsync\DemoLive.ProgramacaoAsync\obj\Debug\netcoreapp3.1\DemoLive.ProgramacaoAsync.pdb
